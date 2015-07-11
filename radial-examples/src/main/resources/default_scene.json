@@ -1,0 +1,1070 @@
+{
+  "entities": [
+    [
+      {
+        "type": "render",
+        "texture": {
+          "path": "crate.png"
+        },
+        "width": 1.0,
+        "height": 1.0
+      },
+      {
+        "type": "transform",
+        "translation": {
+          "x": -2.0,
+          "y": 0.0
+        },
+        "rotation": 0.0
+      },
+      {
+        "type": "physics",
+        "bodyType": "DYNAMIC",
+        "linearDamping": 0.0,
+        "angularDamping": 0.0,
+        "fixedRotation": false
+      },
+      {
+        "type": "colliders",
+        "colliders": [
+          {
+            "type": "rectangle",
+            "width": 1.0,
+            "height": 1.0,
+            "isSensor": false,
+            "material": {
+              "friction": 0.95,
+              "restitution": 0.6,
+              "density": 0.5
+            }
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "type": "render",
+        "texture": {
+          "path": "crate.png"
+        },
+        "width": 1.0,
+        "height": 1.0
+      },
+      {
+        "type": "transform",
+        "translation": {
+          "x": -2.0,
+          "y": 6.0
+        },
+        "rotation": 0.0
+      },
+      {
+        "type": "physics",
+        "bodyType": "DYNAMIC",
+        "linearDamping": 0.0,
+        "angularDamping": 0.0,
+        "fixedRotation": false
+      },
+      {
+        "type": "colliders",
+        "colliders": [
+          {
+            "type": "rectangle",
+            "width": 1.0,
+            "height": 1.0,
+            "isSensor": false,
+            "material": {
+              "friction": 0.95,
+              "restitution": 0.6,
+              "density": 0.5
+            }
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "type": "render",
+        "texture": {
+          "path": "crate.png"
+        },
+        "width": 1.0,
+        "height": 1.0
+      },
+      {
+        "type": "transform",
+        "translation": {
+          "x": -2.0,
+          "y": 12.0
+        },
+        "rotation": 0.0
+      },
+      {
+        "type": "physics",
+        "bodyType": "DYNAMIC",
+        "linearDamping": 0.0,
+        "angularDamping": 0.0,
+        "fixedRotation": false
+      },
+      {
+        "type": "colliders",
+        "colliders": [
+          {
+            "type": "rectangle",
+            "width": 1.0,
+            "height": 1.0,
+            "isSensor": false,
+            "material": {
+              "friction": 0.95,
+              "restitution": 0.6,
+              "density": 0.5
+            }
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "type": "render",
+        "texture": {
+          "path": "crate.png"
+        },
+        "width": 1.0,
+        "height": 1.0
+      },
+      {
+        "type": "transform",
+        "translation": {
+          "x": -2.0,
+          "y": 18.0
+        },
+        "rotation": 0.0
+      },
+      {
+        "type": "physics",
+        "bodyType": "DYNAMIC",
+        "linearDamping": 0.0,
+        "angularDamping": 0.0,
+        "fixedRotation": false
+      },
+      {
+        "type": "colliders",
+        "colliders": [
+          {
+            "type": "rectangle",
+            "width": 1.0,
+            "height": 1.0,
+            "isSensor": false,
+            "material": {
+              "friction": 0.95,
+              "restitution": 0.6,
+              "density": 0.5
+            }
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "type": "render",
+        "texture": {
+          "path": "crate.png"
+        },
+        "width": 1.0,
+        "height": 1.0
+      },
+      {
+        "type": "transform",
+        "translation": {
+          "x": -2.0,
+          "y": 24.0
+        },
+        "rotation": 0.0
+      },
+      {
+        "type": "physics",
+        "bodyType": "DYNAMIC",
+        "linearDamping": 0.0,
+        "angularDamping": 0.0,
+        "fixedRotation": false
+      },
+      {
+        "type": "colliders",
+        "colliders": [
+          {
+            "type": "rectangle",
+            "width": 1.0,
+            "height": 1.0,
+            "isSensor": false,
+            "material": {
+              "friction": 0.95,
+              "restitution": 0.6,
+              "density": 0.5
+            }
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "type": "render",
+        "texture": {
+          "path": "crate.png"
+        },
+        "width": 1.0,
+        "height": 1.0
+      },
+      {
+        "type": "transform",
+        "translation": {
+          "x": -1.0,
+          "y": 0.0
+        },
+        "rotation": 0.0
+      },
+      {
+        "type": "physics",
+        "bodyType": "DYNAMIC",
+        "linearDamping": 0.0,
+        "angularDamping": 0.0,
+        "fixedRotation": false
+      },
+      {
+        "type": "colliders",
+        "colliders": [
+          {
+            "type": "rectangle",
+            "width": 1.0,
+            "height": 1.0,
+            "isSensor": false,
+            "material": {
+              "friction": 0.95,
+              "restitution": 0.6,
+              "density": 0.5
+            }
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "type": "render",
+        "texture": {
+          "path": "crate.png"
+        },
+        "width": 1.0,
+        "height": 1.0
+      },
+      {
+        "type": "transform",
+        "translation": {
+          "x": -1.0,
+          "y": 6.0
+        },
+        "rotation": 0.0
+      },
+      {
+        "type": "physics",
+        "bodyType": "DYNAMIC",
+        "linearDamping": 0.0,
+        "angularDamping": 0.0,
+        "fixedRotation": false
+      },
+      {
+        "type": "colliders",
+        "colliders": [
+          {
+            "type": "rectangle",
+            "width": 1.0,
+            "height": 1.0,
+            "isSensor": false,
+            "material": {
+              "friction": 0.95,
+              "restitution": 0.6,
+              "density": 0.5
+            }
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "type": "render",
+        "texture": {
+          "path": "crate.png"
+        },
+        "width": 1.0,
+        "height": 1.0
+      },
+      {
+        "type": "transform",
+        "translation": {
+          "x": -1.0,
+          "y": 12.0
+        },
+        "rotation": 0.0
+      },
+      {
+        "type": "physics",
+        "bodyType": "DYNAMIC",
+        "linearDamping": 0.0,
+        "angularDamping": 0.0,
+        "fixedRotation": false
+      },
+      {
+        "type": "colliders",
+        "colliders": [
+          {
+            "type": "rectangle",
+            "width": 1.0,
+            "height": 1.0,
+            "isSensor": false,
+            "material": {
+              "friction": 0.95,
+              "restitution": 0.6,
+              "density": 0.5
+            }
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "type": "render",
+        "texture": {
+          "path": "crate.png"
+        },
+        "width": 1.0,
+        "height": 1.0
+      },
+      {
+        "type": "transform",
+        "translation": {
+          "x": -1.0,
+          "y": 18.0
+        },
+        "rotation": 0.0
+      },
+      {
+        "type": "physics",
+        "bodyType": "DYNAMIC",
+        "linearDamping": 0.0,
+        "angularDamping": 0.0,
+        "fixedRotation": false
+      },
+      {
+        "type": "colliders",
+        "colliders": [
+          {
+            "type": "rectangle",
+            "width": 1.0,
+            "height": 1.0,
+            "isSensor": false,
+            "material": {
+              "friction": 0.95,
+              "restitution": 0.6,
+              "density": 0.5
+            }
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "type": "render",
+        "texture": {
+          "path": "crate.png"
+        },
+        "width": 1.0,
+        "height": 1.0
+      },
+      {
+        "type": "transform",
+        "translation": {
+          "x": -1.0,
+          "y": 24.0
+        },
+        "rotation": 0.0
+      },
+      {
+        "type": "physics",
+        "bodyType": "DYNAMIC",
+        "linearDamping": 0.0,
+        "angularDamping": 0.0,
+        "fixedRotation": false
+      },
+      {
+        "type": "colliders",
+        "colliders": [
+          {
+            "type": "rectangle",
+            "width": 1.0,
+            "height": 1.0,
+            "isSensor": false,
+            "material": {
+              "friction": 0.95,
+              "restitution": 0.6,
+              "density": 0.5
+            }
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "type": "render",
+        "texture": {
+          "path": "crate.png"
+        },
+        "width": 1.0,
+        "height": 1.0
+      },
+      {
+        "type": "transform",
+        "translation": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "rotation": 0.0
+      },
+      {
+        "type": "physics",
+        "bodyType": "DYNAMIC",
+        "linearDamping": 0.0,
+        "angularDamping": 0.0,
+        "fixedRotation": false
+      },
+      {
+        "type": "colliders",
+        "colliders": [
+          {
+            "type": "rectangle",
+            "width": 1.0,
+            "height": 1.0,
+            "isSensor": false,
+            "material": {
+              "friction": 0.95,
+              "restitution": 0.6,
+              "density": 0.5
+            }
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "type": "render",
+        "texture": {
+          "path": "crate.png"
+        },
+        "width": 1.0,
+        "height": 1.0
+      },
+      {
+        "type": "transform",
+        "translation": {
+          "x": 0.0,
+          "y": 6.0
+        },
+        "rotation": 0.0
+      },
+      {
+        "type": "physics",
+        "bodyType": "DYNAMIC",
+        "linearDamping": 0.0,
+        "angularDamping": 0.0,
+        "fixedRotation": false
+      },
+      {
+        "type": "colliders",
+        "colliders": [
+          {
+            "type": "rectangle",
+            "width": 1.0,
+            "height": 1.0,
+            "isSensor": false,
+            "material": {
+              "friction": 0.95,
+              "restitution": 0.6,
+              "density": 0.5
+            }
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "type": "render",
+        "texture": {
+          "path": "crate.png"
+        },
+        "width": 1.0,
+        "height": 1.0
+      },
+      {
+        "type": "transform",
+        "translation": {
+          "x": 0.0,
+          "y": 12.0
+        },
+        "rotation": 0.0
+      },
+      {
+        "type": "physics",
+        "bodyType": "DYNAMIC",
+        "linearDamping": 0.0,
+        "angularDamping": 0.0,
+        "fixedRotation": false
+      },
+      {
+        "type": "colliders",
+        "colliders": [
+          {
+            "type": "rectangle",
+            "width": 1.0,
+            "height": 1.0,
+            "isSensor": false,
+            "material": {
+              "friction": 0.95,
+              "restitution": 0.6,
+              "density": 0.5
+            }
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "type": "render",
+        "texture": {
+          "path": "crate.png"
+        },
+        "width": 1.0,
+        "height": 1.0
+      },
+      {
+        "type": "transform",
+        "translation": {
+          "x": 0.0,
+          "y": 18.0
+        },
+        "rotation": 0.0
+      },
+      {
+        "type": "physics",
+        "bodyType": "DYNAMIC",
+        "linearDamping": 0.0,
+        "angularDamping": 0.0,
+        "fixedRotation": false
+      },
+      {
+        "type": "colliders",
+        "colliders": [
+          {
+            "type": "rectangle",
+            "width": 1.0,
+            "height": 1.0,
+            "isSensor": false,
+            "material": {
+              "friction": 0.95,
+              "restitution": 0.6,
+              "density": 0.5
+            }
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "type": "render",
+        "texture": {
+          "path": "crate.png"
+        },
+        "width": 1.0,
+        "height": 1.0
+      },
+      {
+        "type": "transform",
+        "translation": {
+          "x": 0.0,
+          "y": 24.0
+        },
+        "rotation": 0.0
+      },
+      {
+        "type": "physics",
+        "bodyType": "DYNAMIC",
+        "linearDamping": 0.0,
+        "angularDamping": 0.0,
+        "fixedRotation": false
+      },
+      {
+        "type": "colliders",
+        "colliders": [
+          {
+            "type": "rectangle",
+            "width": 1.0,
+            "height": 1.0,
+            "isSensor": false,
+            "material": {
+              "friction": 0.95,
+              "restitution": 0.6,
+              "density": 0.5
+            }
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "type": "render",
+        "texture": {
+          "path": "crate.png"
+        },
+        "width": 1.0,
+        "height": 1.0
+      },
+      {
+        "type": "transform",
+        "translation": {
+          "x": 1.0,
+          "y": 0.0
+        },
+        "rotation": 0.0
+      },
+      {
+        "type": "physics",
+        "bodyType": "DYNAMIC",
+        "linearDamping": 0.0,
+        "angularDamping": 0.0,
+        "fixedRotation": false
+      },
+      {
+        "type": "colliders",
+        "colliders": [
+          {
+            "type": "rectangle",
+            "width": 1.0,
+            "height": 1.0,
+            "isSensor": false,
+            "material": {
+              "friction": 0.95,
+              "restitution": 0.6,
+              "density": 0.5
+            }
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "type": "render",
+        "texture": {
+          "path": "crate.png"
+        },
+        "width": 1.0,
+        "height": 1.0
+      },
+      {
+        "type": "transform",
+        "translation": {
+          "x": 1.0,
+          "y": 6.0
+        },
+        "rotation": 0.0
+      },
+      {
+        "type": "physics",
+        "bodyType": "DYNAMIC",
+        "linearDamping": 0.0,
+        "angularDamping": 0.0,
+        "fixedRotation": false
+      },
+      {
+        "type": "colliders",
+        "colliders": [
+          {
+            "type": "rectangle",
+            "width": 1.0,
+            "height": 1.0,
+            "isSensor": false,
+            "material": {
+              "friction": 0.95,
+              "restitution": 0.6,
+              "density": 0.5
+            }
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "type": "render",
+        "texture": {
+          "path": "crate.png"
+        },
+        "width": 1.0,
+        "height": 1.0
+      },
+      {
+        "type": "transform",
+        "translation": {
+          "x": 1.0,
+          "y": 12.0
+        },
+        "rotation": 0.0
+      },
+      {
+        "type": "physics",
+        "bodyType": "DYNAMIC",
+        "linearDamping": 0.0,
+        "angularDamping": 0.0,
+        "fixedRotation": false
+      },
+      {
+        "type": "colliders",
+        "colliders": [
+          {
+            "type": "rectangle",
+            "width": 1.0,
+            "height": 1.0,
+            "isSensor": false,
+            "material": {
+              "friction": 0.95,
+              "restitution": 0.6,
+              "density": 0.5
+            }
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "type": "render",
+        "texture": {
+          "path": "crate.png"
+        },
+        "width": 1.0,
+        "height": 1.0
+      },
+      {
+        "type": "transform",
+        "translation": {
+          "x": 1.0,
+          "y": 18.0
+        },
+        "rotation": 0.0
+      },
+      {
+        "type": "physics",
+        "bodyType": "DYNAMIC",
+        "linearDamping": 0.0,
+        "angularDamping": 0.0,
+        "fixedRotation": false
+      },
+      {
+        "type": "colliders",
+        "colliders": [
+          {
+            "type": "rectangle",
+            "width": 1.0,
+            "height": 1.0,
+            "isSensor": false,
+            "material": {
+              "friction": 0.95,
+              "restitution": 0.6,
+              "density": 0.5
+            }
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "type": "render",
+        "texture": {
+          "path": "crate.png"
+        },
+        "width": 1.0,
+        "height": 1.0
+      },
+      {
+        "type": "transform",
+        "translation": {
+          "x": 1.0,
+          "y": 24.0
+        },
+        "rotation": 0.0
+      },
+      {
+        "type": "physics",
+        "bodyType": "DYNAMIC",
+        "linearDamping": 0.0,
+        "angularDamping": 0.0,
+        "fixedRotation": false
+      },
+      {
+        "type": "colliders",
+        "colliders": [
+          {
+            "type": "rectangle",
+            "width": 1.0,
+            "height": 1.0,
+            "isSensor": false,
+            "material": {
+              "friction": 0.95,
+              "restitution": 0.6,
+              "density": 0.5
+            }
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "type": "render",
+        "texture": {
+          "path": "crate.png"
+        },
+        "width": 1.0,
+        "height": 1.0
+      },
+      {
+        "type": "transform",
+        "translation": {
+          "x": 2.0,
+          "y": 0.0
+        },
+        "rotation": 0.0
+      },
+      {
+        "type": "physics",
+        "bodyType": "DYNAMIC",
+        "linearDamping": 0.0,
+        "angularDamping": 0.0,
+        "fixedRotation": false
+      },
+      {
+        "type": "colliders",
+        "colliders": [
+          {
+            "type": "rectangle",
+            "width": 1.0,
+            "height": 1.0,
+            "isSensor": false,
+            "material": {
+              "friction": 0.95,
+              "restitution": 0.6,
+              "density": 0.5
+            }
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "type": "render",
+        "texture": {
+          "path": "crate.png"
+        },
+        "width": 1.0,
+        "height": 1.0
+      },
+      {
+        "type": "transform",
+        "translation": {
+          "x": 2.0,
+          "y": 6.0
+        },
+        "rotation": 0.0
+      },
+      {
+        "type": "physics",
+        "bodyType": "DYNAMIC",
+        "linearDamping": 0.0,
+        "angularDamping": 0.0,
+        "fixedRotation": false
+      },
+      {
+        "type": "colliders",
+        "colliders": [
+          {
+            "type": "rectangle",
+            "width": 1.0,
+            "height": 1.0,
+            "isSensor": false,
+            "material": {
+              "friction": 0.95,
+              "restitution": 0.6,
+              "density": 0.5
+            }
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "type": "render",
+        "texture": {
+          "path": "crate.png"
+        },
+        "width": 1.0,
+        "height": 1.0
+      },
+      {
+        "type": "transform",
+        "translation": {
+          "x": 2.0,
+          "y": 12.0
+        },
+        "rotation": 0.0
+      },
+      {
+        "type": "physics",
+        "bodyType": "DYNAMIC",
+        "linearDamping": 0.0,
+        "angularDamping": 0.0,
+        "fixedRotation": false
+      },
+      {
+        "type": "colliders",
+        "colliders": [
+          {
+            "type": "rectangle",
+            "width": 1.0,
+            "height": 1.0,
+            "isSensor": false,
+            "material": {
+              "friction": 0.95,
+              "restitution": 0.6,
+              "density": 0.5
+            }
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "type": "render",
+        "texture": {
+          "path": "crate.png"
+        },
+        "width": 1.0,
+        "height": 1.0
+      },
+      {
+        "type": "transform",
+        "translation": {
+          "x": 2.0,
+          "y": 18.0
+        },
+        "rotation": 0.0
+      },
+      {
+        "type": "physics",
+        "bodyType": "DYNAMIC",
+        "linearDamping": 0.0,
+        "angularDamping": 0.0,
+        "fixedRotation": false
+      },
+      {
+        "type": "colliders",
+        "colliders": [
+          {
+            "type": "rectangle",
+            "width": 1.0,
+            "height": 1.0,
+            "isSensor": false,
+            "material": {
+              "friction": 0.95,
+              "restitution": 0.6,
+              "density": 0.5
+            }
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "type": "render",
+        "texture": {
+          "path": "crate.png"
+        },
+        "width": 1.0,
+        "height": 1.0
+      },
+      {
+        "type": "transform",
+        "translation": {
+          "x": 2.0,
+          "y": 24.0
+        },
+        "rotation": 0.0
+      },
+      {
+        "type": "physics",
+        "bodyType": "DYNAMIC",
+        "linearDamping": 0.0,
+        "angularDamping": 0.0,
+        "fixedRotation": false
+      },
+      {
+        "type": "colliders",
+        "colliders": [
+          {
+            "type": "rectangle",
+            "width": 1.0,
+            "height": 1.0,
+            "isSensor": false,
+            "material": {
+              "friction": 0.95,
+              "restitution": 0.6,
+              "density": 0.5
+            }
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "type": "render",
+        "texture": {
+          "path": "crate.png"
+        },
+        "width": 40.0,
+        "height": 1.0
+      },
+      {
+        "type": "transform",
+        "translation": {
+          "x": 0.0,
+          "y": -5.0
+        },
+        "rotation": 0.0
+      },
+      {
+        "type": "physics",
+        "bodyType": "STATIC",
+        "linearDamping": 0.0,
+        "angularDamping": 0.0,
+        "fixedRotation": false
+      },
+      {
+        "type": "colliders",
+        "colliders": [
+          {
+            "type": "rectangle",
+            "width": 40.0,
+            "height": 1.0,
+            "isSensor": false,
+            "material": {
+              "friction": 0.95,
+              "restitution": 0.6,
+              "density": 0.5
+            }
+          }
+        ]
+      }
+    ]
+  ]
+}
