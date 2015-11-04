@@ -13,7 +13,7 @@
   <artifactId>radial-examples</artifactId>
 
   <properties>
-    <mainClass>net.faintedge.radial.examples</mainClass>
+    <mainClass>net.faintedge.rube.examples</mainClass>
   </properties>
 
   <dependencies>
