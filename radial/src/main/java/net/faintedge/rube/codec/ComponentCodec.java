@@ -35,8 +35,6 @@ public class ComponentCodec implements JsonSerializer<Component>, JsonDeserializ
     result.put("name", Name.class);
     result.put("physics", Physics.class);
     result.put("physics-motion", PhysicsMotion.class);
-    // TODO:
-//    result.put("render", Render.class);
     result.put("transform", Transform.class);
     result.put("transform-motion", TransformMotion.class);
     result.put("wheel-motion", WheelMotion.class);
