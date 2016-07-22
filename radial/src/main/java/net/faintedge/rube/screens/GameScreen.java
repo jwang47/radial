@@ -89,7 +89,7 @@ public class GameScreen extends ScreenAdapter {
     context.getPhysicsSystem().step();
     context.getPhysicsSystem().process();
 
-    fpsLogger.log();
+//    fpsLogger.log();
   }
 
   @Override
